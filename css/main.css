@@ -1,0 +1,8 @@
+*{box-sizing:border-box;}body{margin:0;padding:0;background:#10102a;color:#d8d8d8;font-family:sans-serif;}
+
+.root {
+    display:flex;
+    width:100vw;
+    height:100vh;
+    flex-direction:column;
+}
